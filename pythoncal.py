@@ -6,7 +6,8 @@ if (sys.argv)!= 3:
     print(f"Integer1 {integer1} and Integer2 {integer2}")
 else:
     
-
+    integ1 = 20
+    integ2 = 2
 
     if integer1 > 0:
         print(f"{integer1} is a positive number")
