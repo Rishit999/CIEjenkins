@@ -4,6 +4,9 @@ if (sys.argv)!= 3:
     integer1 = int(sys.argv[1])
     integer2 = int(sys.argv[2])
     print(f"Integer1 {integer1} and Integer2 {integer2}")
+else:
+    
+
 
     if integer1 > 0:
         print(f"{integer1} is a positive number")
@@ -19,5 +22,3 @@ if (sys.argv)!= 3:
     else:
         print(f"{integer2} is neither negative nor positive")
    
-else:
-    print("invalid input")
