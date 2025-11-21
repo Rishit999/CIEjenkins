@@ -19,4 +19,5 @@ if (sys.argv)!= 3:
     else:
         print(f"{integer2} is neither negative nor positive")
 else:
+    print("Invalid input")
 
