@@ -17,7 +17,7 @@ if (sys.argv)!= 3:
     elif integer2 < 0:
         print(f"{integer2} is negative number")
     else:
-        print(f"{integer2} is neither negative nor positive"
+        print(f"{integer2} is neither negative nor positive")
    
 else:
     print("invalid input")
